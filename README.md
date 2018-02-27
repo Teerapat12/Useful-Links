@@ -7,3 +7,7 @@ http://www.codeblocq.com/2016/03/Setup-ESLint-in-WebStorm/
 markdown Cheatsheet
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Books list
+
+http://greenteapress.com/wp/think-stats-2e/
