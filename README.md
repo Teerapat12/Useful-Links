@@ -11,3 +11,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Books list
 
 http://greenteapress.com/wp/think-stats-2e/
+
+Correlation between different type of features
+
+https://datascience.stackexchange.com/questions/893/how-to-get-correlation-between-two-categorical-variable-and-a-categorical-variab
