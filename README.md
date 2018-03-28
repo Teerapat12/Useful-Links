@@ -19,3 +19,8 @@ https://datascience.stackexchange.com/questions/893/how-to-get-correlation-betwe
 http://connor-johnson.com/2014/12/31/the-pearson-chi-squared-test-with-python-and-r/
 
 https://seaborn.pydata.org/tutorial/categorical.html
+
+
+Machine Learning deal with unbalacne data
+
+https://elitedatascience.com/imbalanced-classes
