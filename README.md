@@ -24,3 +24,8 @@ https://seaborn.pydata.org/tutorial/categorical.html
 Machine Learning deal with unbalacne data
 
 https://elitedatascience.com/imbalanced-classes
+
+
+Kaggle try Beta distribution and fitting
+
+https://www.kaggle.com/akerlyn/kernel6aaebe3959/edit
